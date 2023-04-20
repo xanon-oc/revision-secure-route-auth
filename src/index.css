@@ -1,0 +1,17 @@
+.active p {
+  color: #ffc107;
+  border-radius: 5px;
+}
+
+.qzone {
+  background: #f3f3f3;
+}
+
+.bgCover {
+  width: 306px;
+  height: 662px;
+}
+
+.loginA {
+  width: 306px;
+}

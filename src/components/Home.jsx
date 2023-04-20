@@ -1,10 +1,10 @@
 import React from "react";
-import MainPOST from "./MainPOST";
+import Newses from "./Newses";
 
 const Home = () => {
   return (
     <div>
-      <MainPOST />
+      <Newses />
     </div>
   );
 };

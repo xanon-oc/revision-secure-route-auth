@@ -2,7 +2,7 @@ import React from "react";
 import Header from "../Shared/Header";
 import Footer from "../Shared/Footer";
 import { Col, Container, Row } from "react-bootstrap";
-import MainPOST from "../MainPOST";
+
 import LeftNav from "../Shared/LeftNav";
 import RightNav from "../Shared/RightNav";
 import { Outlet } from "react-router-dom";
